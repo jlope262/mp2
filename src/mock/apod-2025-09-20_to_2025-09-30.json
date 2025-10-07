@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2025-09-30",
+    "title": "The Pleiades Dusty Halo",
+    "explanation": "The Pleiades star cluster, also known as the Seven Sisters, shines through interstellar dust that reflects their blue light. The dust grains scatter shorter wavelengths more efficiently, creating a blue halo surrounding the cluster.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/PleiadesDustyHalo.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/PleiadesDustyHalo_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-29",
+    "title": "Jupiter: A Timelapse",
+    "explanation": "Captured by NASA's Juno spacecraft, this short timelapse sequence shows Jupiter's swirling clouds and massive storms rotating across its upper atmosphere. The Great Red Spot remains one of the most powerful anticyclones in the solar system.",
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/x4z8ZZpN7rQ",
+    "hdurl": null,
+    "thumbnail_url": "https://img.youtube.com/vi/x4z8ZZpN7rQ/hqdefault.jpg"
+  },
+  {
+    "date": "2025-09-28",
+    "title": "Aurora over Icelandic Mountains",
+    "explanation": "Dancing green and purple lights shimmered across the night sky above Iceland. These auroras were caused by charged particles from the Sun interacting with Earth's magnetic field and upper atmosphere.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/IcelandAurora.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/IcelandAurora_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-27",
+    "title": "Lunar Eclipse Composite",
+    "explanation": "This composite image shows the stages of a total lunar eclipse from start to finish. The red color during totality occurs because sunlight is filtered through Earth's atmosphere, scattering shorter wavelengths and letting red light reach the Moon.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/LunarEclipseComposite.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/LunarEclipseComposite_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-26",
+    "title": "ISS Over the Milky Way",
+    "explanation": "The International Space Station streaks across the Milky Way in this long-exposure shot from the Atacama Desert. The bright band of our galaxy glows behind as the ISS reflects sunlight while orbiting Earth at 7.6 km/s.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/ISS_MilkyWay.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/ISS_MilkyWay_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-25",
+    "title": "A Journey to Mars (Animation)",
+    "explanation": "This NASA animation depicts the planned trajectory of the next Mars sample return mission. Multiple stages will collect samples, launch them into Mars orbit, and return them to Earth for analysis.",
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/5yFj5x5vBZw",
+    "hdurl": null,
+    "thumbnail_url": "https://img.youtube.com/vi/5yFj5x5vBZw/hqdefault.jpg"
+  },
+  {
+    "date": "2025-09-24",
+    "title": "The Pillars of Creation in Infrared",
+    "explanation": "Seen through the James Webb Space Telescope, the Pillars of Creation reveal newly forming stars inside dense clouds of gas and dust. Infrared light pierces through regions opaque to visible light.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/PillarsOfCreation_IR.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/PillarsOfCreation_IR_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-23",
+    "title": "Earthrise from the Moon",
+    "explanation": "An iconic perspective captured by the Lunar Reconnaissance Orbiter shows Earth rising above the lunar horizon. The image reminds us of our planet’s fragility and unity in the vastness of space.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/Earthrise.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/Earthrise_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-22",
+    "title": "Andromeda Galaxy Close-Up",
+    "explanation": "This high-resolution image from the Hubble Space Telescope showcases billions of stars in the Andromeda Galaxy, our nearest large galactic neighbor. The vast spiral arms span over 200,000 light-years.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/AndromedaCloseUp.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/AndromedaCloseUp_hd.jpg",
+    "thumbnail_url": null
+  },
+  {
+    "date": "2025-09-21",
+    "title": "Night Sky over the Grand Canyon",
+    "explanation": "The Grand Canyon under a new moon reveals a pristine night sky filled with constellations. Long exposures capture the Milky Way arching over the canyon’s rim in breathtaking clarity.",
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2509/GrandCanyonStars.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2509/GrandCanyonStars_hd.jpg",
+    "thumbnail_url": null
+  }
+]
