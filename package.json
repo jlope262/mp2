@@ -1,5 +1,6 @@
 {
-  "name": "mp2marvel",
+  "homepage": "https://jlope262.github.io/mp2",
+  "name": "mp2-Nasa",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
