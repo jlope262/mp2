@@ -57,7 +57,11 @@ export default function DetailView() {
                 //cache first
                 const cached = getCache<ApodItem[]>(cacheKey);
                 if (cached) {
-                    if (!cancelled) setItems(cached);
+                    if (!cancelled) {
+                        setItems(cached);
+                        setItem(cached.find(i => i.date === date) ?? null);
+                        setLoading(false);
+                    }
                     return;
                 }
 
@@ -86,6 +90,10 @@ export default function DetailView() {
 
     if (loading || !item) { //if its still loading, show this instead of list
         return <p>Loading...</p>;
+    }
+
+    if (error) {
+        return <p>Error: {error}</p>;
     }
 
     //checking if APOD is image or video, to know how to render

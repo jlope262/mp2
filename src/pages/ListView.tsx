@@ -111,6 +111,11 @@ export default function ListView() { //this is declaring a react component, reus
     if (loading) { //if its still loading, show this instead of list
         return <p>Loading...</p>;
     }
+
+    //unused error had to fix
+    if (error) {
+        return <p>Error: {error}</p>;
+    }
     //filter by search, so i only care about items that match the search term
     const filtered = items.filter(it =>
         it.title.toLowerCase().includes(search.toLowerCase()) ||
