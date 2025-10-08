@@ -33,7 +33,7 @@ export default function GalleryView() {
                     return;
                 }
 
-                //live or mock api
+                //live api
                 const data = await getApodRange({ startDate, endDate });
                 if (!cancelled) {
                     setItems(data);

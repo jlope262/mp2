@@ -50,3 +50,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 https://www.w3schools.com/howto/howto_js_topnav.asp 
 https://legacy.reactjs.org/docs/hooks-intro.html
 https://react.dev/learn
+https://www.geeksforgeeks.org/css/how-to-create-a-group-of-buttons-with-evenly-space-in-css/

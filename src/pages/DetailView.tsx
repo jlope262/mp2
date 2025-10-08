@@ -64,8 +64,7 @@ export default function DetailView() {
                     }
                     return;
                 }
-
-                //live or mock api
+                //get from live
                 const data = await getApodRange({ startDate, endDate });
                 if (!cancelled) {
                     setItems(data);
